@@ -92,3 +92,37 @@ ENV/
 
 # PyCharm project setting
 .idea
+demo/images/xavier/Xavier-9.jpeg
+demo/images/xavier/Xavier-8.jpeg
+demo/images/xavier/Xavier-7.jpeg
+demo/images/xavier/Xavier-6.jpeg
+demo/images/xavier/Xavier-5.jpeg
+demo/images/xavier/Xavier-4.jpeg
+demo/images/xavier/Xavier-3.jpeg
+demo/images/xavier/Xavier-2.jpeg
+demo/images/xavier/Xavier-14.jpeg
+demo/images/xavier/Xavier-13.jpeg
+demo/images/xavier/Xavier-12.jpeg
+demo/images/xavier/Xavier-11.jpeg
+demo/images/xavier/Xavier-10.jpeg
+demo/images/xavier/Xavier-1.jpeg
+demo/images/Varvara-3.jpeg
+demo/images/Varvara-2.jpeg
+demo/images/Varvara-1.jpeg
+demo/images/Pere.jpeg
+demo/images/Nicolas.jpeg
+demo/images/Eduard-2.jpeg
+demo/images/Eduard-1.jpeg
+demo/images/Cesar-2.jpeg
+demo/images/Cesar-1.jpeg
+demo/facenet-1.mlmodel
+demo/models/20180402-114759/20180402-114759.pb
+demo/models/20180402-114759/model-20180402-114759.ckpt-275.data-00000-of-00001
+demo/models/20180402-114759/model-20180402-114759.ckpt-275.index
+demo/models/20180402-114759/model-20180402-114759.meta
+demo/models/20180408-102900/20180408-102900.pb
+demo/models/20180408-102900/model-20180408-102900.ckpt-90.data-00000-of-00001
+demo/models/20180408-102900/model-20180408-102900.ckpt-90.index
+demo/models/20180408-102900/model-20180408-102900.meta
+demo/models/keras-facenet/model/facenet_keras.h5
+demo/models/keras-facenet/weights/facenet_keras_weights.h5
